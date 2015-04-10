@@ -184,6 +184,15 @@ section.success {
     background: #18bc9c;
 }
 
+section.red {
+    color: #fff;
+    background: #990033;
+}
+
+section.blue {
+    color: #fff;
+}
+
 @media(max-width:767px) {
     section {
         padding: 75px 0;
