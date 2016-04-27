@@ -191,6 +191,7 @@ section.red {
 
 section.blue {
     color: #fff;
+	background: #2c3e50;
 }
 
 @media(max-width:767px) {
